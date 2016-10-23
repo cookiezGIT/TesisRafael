@@ -1,0 +1,1246 @@
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="2094.521" Y="5576.886" Z="98.73058" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="2121.807" Y="5619.319" Z="95.19362" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="2160.489" Y="5649.748" Z="108.3485" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="2198.958" Y="5682.23" Z="111.9811" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="2247.909" Y="5678.23" Z="123.8323" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="2297.341" Y="5691.631" Z="122.3496" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="2347.56" Y="5684.095" Z="123.0756" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="2384.569" Y="5652.482" Z="136.2517" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="2432.58" Y="5648.383" Z="151.9172" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="2476.838" Y="5671.699" Z="162.0568" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="2523.311" Y="5692.04" Z="161.9089" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="2562.939" Y="5724.409" Z="163.4983" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="2605.767" Y="5750.759" Z="173.6532" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="2625.105" Y="5705.329" Z="188.1441" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="2614.055" Y="5655.854" Z="185.9608" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="2609.2" Y="5605.233" Z="180.149" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="2602.542" Y="5555.451" Z="182.4146" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="2560.311" Y="5533.905" Z="164.8217" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="2536.275" Y="5492.306" Z="149.4625" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="2509.67" Y="5449.354" Z="139.5426" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="2459.116" Y="5446.898" Z="136.7609" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="2411.001" Y="5465.431" Z="135.049" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="2369.914" Y="5494.42" Z="133.4912" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="2335.181" Y="5459.264" Z="120.9586" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="2327.301" Y="5409.553" Z="116.5892" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="2299.915" Y="5366.687" Z="118.0354" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="2270.99" Y="5324.91" Z="117.5978" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="2247.448" Y="5280.078" Z="116.0894" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="2255.994" Y="5230.58" Z="112.7087" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="2282.559" Y="5187.16" Z="110.5103" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="2295.019" Y="5139.431" Z="119.1777" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="2264.871" Y="5099.701" Z="130.6551" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="2224.877" Y="5069.906" Z="134.9234" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="2228.411" Y="5019.103" Z="136.4884" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="2242.306" Y="4970.33" Z="141.8337" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="2241.276" Y="4919.858" Z="141.887" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="2192.719" Y="4906.197" Z="146.7167" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="2173.716" Y="4953.49" Z="143.2634" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="2174.904" Y="5004.249" Z="145.3152" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="2180.848" Y="5054.374" Z="135.9119" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="2139.817" Y="5085.375" Z="135.9509" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="2139.877" Y="5134.921" Z="128.5339" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="2091.079" Y="5148.189" Z="122.5313" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="2066.704" Y="5188.917" Z="106.283" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="2016.976" Y="5182.861" Z="96.5477" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="1975.257" Y="5153.545" Z="97.62802" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="1975.141" Y="5103.544" Z="107.7837" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="1997.37" Y="5057.68" Z="112.6165" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="1963.19" Y="5019.719" Z="115.3721" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="1924.244" Y="4986.699" Z="118.9523" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="1948.169" Y="4941.879" Z="124.63" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="1978.093" Y="4901.843" Z="136.8938" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="2023.886" Y="4879.829" Z="139.3569" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="2071.222" Y="4894.518" Z="148.6952" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="2093.26" Y="4940.194" Z="153.3791" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="2060.323" Y="4977.383" Z="160.5162" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="2023.396" Y="4943.011" Z="163.047" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="1998.334" Y="4898.771" Z="165.3361" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="1972.317" Y="4854.826" Z="162.5803" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="1980.438" Y="4804.409" Z="159.7323" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="1929.79" Y="4800.325" Z="164.8129" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="1895.125" Y="4762.89" Z="164.5076" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="1860.348" Y="4725.882" Z="163.0816" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="1812.797" Y="4707.969" Z="164.9901" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="1787.303" Y="4749.474" Z="147.3423" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="1769.43" Y="4797" Z="149.6171" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="1741.616" Y="4838.55" Z="145.6688" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="1691.79" Y="4827.581" Z="142.5666" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="1648.275" Y="4800.864" Z="138.3131" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="1611.834" Y="4766.11" Z="138.3131" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="1579.295" Y="4727.143" Z="139.1163" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="1529.354" Y="4726.27" Z="142.1622" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="1498.667" Y="4686.284" Z="146.2447" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="1466.087" Y="4647.67" Z="139.7421" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="1417.083" Y="4653.961" Z="128.7777" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="1381.903" Y="4690.325" Z="129.8087" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="1342.965" Y="4721.614" Z="136.6463" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="1295.22" Y="4736.83" Z="144.2209" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="1259.669" Y="4701.174" Z="139.9444" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="1220.715" Y="4670.812" Z="129.9918" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="1192.434" Y="4628.123" Z="125.046" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="1203.328" Y="4579.171" Z="119.5891" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="1231.411" Y="4536.642" Z="119.5137" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="1274.171" Y="4510.682" Z="118.9303" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="1301.46" Y="4467.677" Z="117.5067" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="1344.537" Y="4441.824" Z="115.3524" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="1393.069" Y="4454.04" Z="118.6975" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="1441.355" Y="4438.762" Z="117.6388" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="1483.969" Y="4411.23" Z="121.0901" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+
+
+
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="1544.15" Y="4391.75" Z="118.3982" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="1573.02" Y="4350.188" Z="125.2121" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="1595.166" Y="4305.393" Z="131.8446" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="1612.4" Y="4256.98" Z="133.8223" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="1610.367" Y="4206.219" Z="140.2492" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="1567.222" Y="4179.885" Z="133.1471" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="1557.493" Y="4130.637" Z="133.8923" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="1569.789" Y="4081.287" Z="139.3834" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="1582.061" Y="4032.034" Z="140.3152" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="1594.37" Y="3982.632" Z="138.1353" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="1600.689" Y="3932.144" Z="140.8463" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="1606.133" Y="3881.574" Z="143.0677" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="1606.511" Y="3830.774" Z="144.5556" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="1603.986" Y="3779.848" Z="141.7345" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="1600.63" Y="3729.099" Z="141.7348" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="1597.581" Y="3678.603" Z="141.763" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="1598.144" Y="3628.598" Z="142.1998" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="1588.746" Y="3579.128" Z="143.7313" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="1587.955" Y="3527.78" Z="145.2665" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="1612.702" Y="3483.803" Z="145.4317" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="1654.271" Y="3455.048" Z="153.261" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="1677.852" Y="3410.61" Z="159.2965" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="1705.468" Y="3369.106" Z="167.6369" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="1755.899" Y="3371.141" Z="173.1132" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="1790.239" Y="3335.154" Z="181.9937" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="1837.593" Y="3317.308" Z="190.3754" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="1886.449" Y="3320.492" Z="202.5714" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="1889.613" Y="3270.703" Z="206.3235" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="1925.603" Y="3236.179" Z="219.6997" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="1883.743" Y="3214.019" Z="200.6651" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="1833.912" Y="3213.762" Z="190.6159" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="1810.459" Y="3171.068" Z="204.0112" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="1840.028" Y="3131.752" Z="213.6604" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="1837.944" Y="3083.581" Z="200.0599" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="1793.104" Y="3098.909" Z="183.9027" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="1749.183" Y="3117.639" Z="165.5544" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="1717.607" Y="3080.616" Z="150.5365" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="1671.933" Y="3084.343" Z="129.0581" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="1623.063" Y="3078.28" Z="116.6264" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="1574.083" Y="3088.281" Z="109.5324" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="1554.913" Y="3134.657" Z="117.7287" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="1543.295" Y="3183.733" Z="122.93" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="1561.137" Y="3227.624" Z="141.8382" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="1607.933" Y="3241.947" Z="156.2376" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="1626.046" Y="3288.712" Z="166.5492" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="1630.998" Y="3339.083" Z="161.9753" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="1641.928" Y="3388.66" Z="160.019" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="1631.465" Y="3438.542" Z="151.0808" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
+<If Condition="Unit(98233, u => u.Distance &lt; 70 &amp;&amp; u.IsAlive) == null">
+       <DisableBehavior Name="Combat"/>
+         <RunTo X="1617.922" Y="3487.016" Z="146.4577" />
+    <Else>
+         <CustomBehavior File="ForcedDismount" />
+         <EnableBehavior Name="Combat" />
+     </Else>
+  </If>
+
